@@ -58,5 +58,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashish3281&label=Profile%20views&color=0e75b6&style=flat" alt="ashish3281" /> </p>
 </div>
