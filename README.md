@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Code White's profile!
+  Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,19 +11,19 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : ---
+🔭 I’m currently working on : JavaScript
   
 🌱 I’m currently learning : Java
 
   👯 I’m looking to collaborate on my webpage
 
-  🤔 I’m  looking for help
+  🤔 I’m  looking for Internship
 
   💬 Ask me about for any help
 
   📫 How to reach me:  
   Mail me at "ashishgoyal3281@gmail.com" or 
-  scroll to bottom of the page of "" and find CONTACT ME
+  Fill this Contact Form "https://ashish3281.github.io/Contact-Me/"
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
