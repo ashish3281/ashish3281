@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  height="200"/>
-</p>
-<hr>
 <h3 align="center">
   Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,10 +7,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Ashish+Goyal;Computer+Science+Student;FrontEnd+Developer;Quick+Learner;Open+Source+Contributor" alt="Typing SVG" /></a>
 </div>
 
+<h2 align="center">  💫About Me : <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<div align="center">
-  
-# 💫About Me :
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 🔭 I’m currently working on : JavaScript
   
 🌱 I’m currently learning : Java
@@ -30,6 +26,8 @@
   Fill this Contact Form "https://ashish3281.github.io/Contact-Me/"
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+<div align="center">
+  
 
 <br>
   <br>
